@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    class Class2
+    class Fun
     {
+        public string FunID { get; set; }
     }
 }
