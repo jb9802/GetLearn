@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    class MyEvent
+    class Class2
     {
-        public string EventID { get; set; }
     }
 }
