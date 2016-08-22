@@ -8,5 +8,6 @@ namespace WindowsFormsApplication1
 {
     class Class2
     {
+        public string value {get;set;}
     }
 }
