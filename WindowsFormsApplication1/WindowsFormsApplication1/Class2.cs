@@ -9,5 +9,6 @@ namespace WindowsFormsApplication1
     class Fun
     {
         public string FunID { get; set; }
+        public string value {get;set;}
     }
 }
